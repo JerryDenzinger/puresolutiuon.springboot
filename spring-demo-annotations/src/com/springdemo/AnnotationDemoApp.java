@@ -16,10 +16,10 @@ public class AnnotationDemoApp {
 		
 		// call a method on the TennisCoach bean 
 		System.out.println(tennisCoach.getDailyWorkout());
-		System.out.println(pingpongCoach.getDailyFortune());
+		System.out.println(tennisCoach.getDailyFortune());
 		
 		// call a method on the PingpongCoach bean
-		System.out.println(tennisCoach.getDailyWorkout());
+		System.out.println(pingpongCoach.getDailyWorkout());
 		System.out.println(pingpongCoach.getDailyFortune());
 		
 		

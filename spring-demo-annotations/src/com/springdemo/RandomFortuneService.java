@@ -10,11 +10,11 @@ public class RandomFortuneService implements FortuneService {
 	// Create an array of strings 
 		private String[] data = 
 			{
-				               "Beware of the wolf in sheep´s clothing",
-				               "Diligence is the mother of luck",
-				               "The journey is the reward",
-				               "Today is your lucky day",
-				               "Don´t go out today its not your day"
+				               "Beware of the wolf in sheep´s clothing!!",
+				               "Diligence is the mother of luck!!",
+				               "The journey is the reward!!",
+				               "Today is your lucky day buy lotto!!",
+				               "Don´t go out today its not your day!!"
 			};
 		
 		// create a random number generator
